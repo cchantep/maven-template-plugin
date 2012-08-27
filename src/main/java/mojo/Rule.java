@@ -9,7 +9,7 @@ import org.apache.commons.lang.builder.EqualsBuilder;
 /**
  * Rule to generate a file from a template.
  *
- * @author Cedric Chantepie (cchantepie@corsaire.fr)
+ * @author Cedric Chantepie
  */
 public class Rule {
     // --- Properties ---

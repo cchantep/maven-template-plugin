@@ -27,7 +27,7 @@ import org.apache.maven.plugin.AbstractMojo;
 /**
  * Generate files from templates using velocity.
  *
- * @author Cedric Chantepie (cchantepie@corsaire.fr)
+ * @author Cedric Chantepie
  * @goal generate
  * @phase generate-sources
  */
