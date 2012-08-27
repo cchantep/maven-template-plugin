@@ -44,3 +44,7 @@ To integrate in your POM:
   </build>
 </project>
 ```
+
+## Documentation
+
+More documentation can be found [here](username.github.com/projectname).
