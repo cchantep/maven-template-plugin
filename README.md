@@ -47,4 +47,4 @@ To integrate in your POM:
 
 ## Documentation
 
-More documentation can be found [here](username.github.com/projectname).
+More documentation can be found [here](http://cchantep.github.com/maven-template-plugin/).
