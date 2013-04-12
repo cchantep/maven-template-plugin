@@ -9,6 +9,16 @@ To integrate in your POM:
 ```xml
 <project>
   ...
+  <repositories>
+    ...
+    <repository><!-- Plugin artifacts hosted at Applicius repo -->
+      <id>applicius-releases</id>
+      <name>Applicius Maven2 Releases Repository</name>
+      <url>https://raw.github.com/applicius/mvn-repo/master/releases/</url>
+    </repository>
+  </repositories>
+  ...
+
   <build>
     ...
     <plugins>
